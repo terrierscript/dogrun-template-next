@@ -4,7 +4,6 @@
   ],
   "rangeStrategy": "bump",
   "automerge": true,
-  "major": {
-    "automerge": false
-  }
+  "stabilityDays": 3,
+  "prCreation": "not-pending"
 }
