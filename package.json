@@ -19,7 +19,7 @@
   "devDependencies": {
     "@swc/core": "^1.2.135",
     "@swc/jest": "^0.2.17",
-    "@types/node": "^16.11.21",
+    "@types/node": "^16.11.22",
     "@types/react": "^17.0.38",
     "jest": "^27.4.7",
     "typescript": "^4.5.5"
