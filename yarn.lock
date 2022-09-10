@@ -1427,10 +1427,10 @@ focus-lock@^0.11.2:
   dependencies:
     tslib "^2.0.3"
 
-framer-motion@^7.3.1:
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-7.3.1.tgz#64f1b776b4040c3892dc8d9e96708d86a1a03de7"
-  integrity sha512-GueJTUfejDIesde7mAGUeI8V3UeQQlS6u8UW37efZatfJKEBVgMEYW0BYhvtMWKdr1d9RmDLwlIblsZJDz1MjA==
+framer-motion@^7.3.2:
+  version "7.3.2"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-7.3.2.tgz#9768092cd98cf0ebaf70864f1248f2e703305a15"
+  integrity sha512-BTG0BqJSwxoFBWpwaaxS/954DGZFsluF+dUv9Hfq53VNkwUt5g+wYTEM66oTUhiH/+6R/y0Rq+BmkUBcmzbyMQ==
   dependencies:
     "@motionone/dom" "10.13.1"
     framesync "6.1.2"
