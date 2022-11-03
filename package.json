@@ -16,7 +16,7 @@
     "next": "^12.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "vitest": "^0.24.3"
+    "vitest": "^0.24.4"
   },
   "devDependencies": {
     "@types/node": "^18.11.8",
