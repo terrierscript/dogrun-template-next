@@ -9,7 +9,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.3.7",
+    "@chakra-ui/react": "^2.4.1",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "framer-motion": "^7.6.6",
