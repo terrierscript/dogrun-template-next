@@ -1,6 +1,6 @@
 import { Box } from "@chakra-ui/react"
 import { FC } from "react"
 
-export const Component: FC<{}> = () => {
+export const SampleComponent: FC<{}> = () => {
   return <Box></Box>
 }
