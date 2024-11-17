@@ -1,11 +1,13 @@
 "use client"
-import { ChakraProvider } from "@chakra-ui/react"
-import App, { AppProps } from "next/app"
+import { MantineProvider, createTheme } from "@mantine/core"
 import React, { FC, PropsWithChildren } from "react"
 
+const theme = createTheme({
+})
+
 export const Provider: FC<PropsWithChildren<{}>> = ({ children }) => {
-  return <ChakraProvider>
+  return <MantineProvider theme={theme}>
     {children}
-  </ChakraProvider>
+  </MantineProvider>
 }
 

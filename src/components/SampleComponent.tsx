@@ -1,6 +1,13 @@
-import { Box } from "@chakra-ui/react"
+"use client"
+import { Box, Button, Stack } from "@mantine/core"
 import { FC } from "react"
 
 export const SampleComponent: FC<{}> = () => {
-  return <Box>hello</Box>
+  return <Box>
+    <Stack>
+      <Box>hello</Box>
+      <Button>Click</Button>
+    </Stack>
+
+  </Box>
 }

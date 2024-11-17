@@ -1,4 +1,6 @@
+import { ColorSchemeScript } from "@mantine/core"
 import { Provider } from "./AppProvider"
+import '@mantine/core/styles.css'
 
 export const metadata = {
   title: 'Next.js',
@@ -12,6 +14,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <ColorSchemeScript />
+      </head>
       <body>
         <Provider>
           {children}
