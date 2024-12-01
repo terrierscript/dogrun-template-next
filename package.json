@@ -17,7 +17,7 @@
     "vitest": "^1.4.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.30",
+    "@types/node": "^22.10.1",
     "@types/react": "^18.2.70",
     "postcss": "^8.4.49",
     "postcss-preset-mantine": "^1.17.0",
