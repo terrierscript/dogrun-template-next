@@ -292,7 +292,7 @@
   resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.5.0.tgz#3188bcb273a414b0d215fd22a58540b989b9409a"
   integrity sha512-gv3ZRaISU3fjPAgNsriBRqGWQL6quFx04YMPW/zD8XMLsU32mhCCbfbO6KZFLjvYpCZ8zyDEgqsgf+PwPaM7GQ==
 
-"@mantine/core@^7.14.1":
+"@mantine/core@^7.14.3":
   version "7.15.0"
   resolved "https://registry.yarnpkg.com/@mantine/core/-/core-7.15.0.tgz#009cd454170a089a6e679390d0c11d0e6036ca21"
   integrity sha512-tZlRydfaEaaCNIi3tl1u+VtJxNyBoml2iCJAy6ZqcNNcjy/krJmta5lVtjUeApZfE33rkvr+3WVqGk0YjW6oSQ==
@@ -304,7 +304,7 @@
     react-textarea-autosize "8.5.5"
     type-fest "^4.27.0"
 
-"@mantine/hooks@^7.14.1":
+"@mantine/hooks@^7.14.3":
   version "7.15.0"
   resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-7.15.0.tgz#b097b7e60181beb563eb7232a4f5882a3105000b"
   integrity sha512-AV4ItRbVIWVDzpOPyj3ICrfQq7HEdKhO7IE7xxkdbJ4oj73DAq2jFsMoNdj3dN9u2tOn1bhPBIaP+8gKd0oAcw==
