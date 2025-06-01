@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/node": "^22.14.1",
     "@types/react": "^19.1.2",
-    "postcss": "^8.5.3",
+    "postcss": "^8.5.4",
     "postcss-preset-mantine": "^1.17.0",
     "postcss-simple-vars": "^7.0.1",
     "typescript": "^5.8.3"
